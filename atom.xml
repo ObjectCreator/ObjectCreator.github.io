@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Handa&#39;s blog</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2016-10-14T21:09:57.538Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Handa Huang</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>从一个想法开始</title>
+    <link href="http://yoursite.com/2016/10/15/%E4%BB%8E%E4%B8%80%E4%B8%AA%E6%83%B3%E6%B3%95%E5%BC%80%E5%A7%8B/"/>
+    <id>http://yoursite.com/2016/10/15/从一个想法开始/</id>
+    <published>2016-10-14T17:34:19.000Z</published>
+    <updated>2016-10-14T21:09:57.538Z</updated>
+    
+    <content type="html"><![CDATA[<p>很开心，终于有了属于自己的博客，其实很早开始就有想写博客的想法，因为很多原因无法做这件事，不过现在我能在这里开始一段new life还是很开心的；<br>    每每看到朋友，技术大牛在这里尽情的挥洒笔杆，分享文章，技术解析与分享，我都是满目的羡慕，就连心情不好的时候都可以在夜深人静的时候泡上一杯茶，在文字间尽情宣泄心中的情感，很自由；<br>    好了，废话结束，毕竟是开篇嘛，首先介绍一下自己；<a id="more"></a><br>    本人作为一名小程序员是很有态度的，什么妹子，什么屁股，什么”nai zi”,我们都不需要，我们眼里只有码，只 有码！<br>    我也是很随大流的一个人，因此我也有English name的，正如你们看到的——Handa；<br>    至于我这个blog的域名，因为我的中文名缩写是hy所以就起了个十分接地气的名字，hyblog，原本是想走一下International路线，可惜hyblog.com的域名已经被不知道哪个”小崽子”给抢注了，因此确定域名www.hyblog.online,正相符我们hexo online writer的想法；<br>    最后这个想法终于如期开始了，而什么时候结束，或是会不会坚持都还是个未知数，日后再见了，码代码了。<br>    <img src="/images/coffer.jpeg"><br>    <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="298" height="52" src="http://music.163.com/outchain/player?type=2&id=406346027&auto=1&height=32"></iframe></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;很开心，终于有了属于自己的博客，其实很早开始就有想写博客的想法，因为很多原因无法做这件事，不过现在我能在这里开始一段new life还是很开心的；&lt;br&gt;    每每看到朋友，技术大牛在这里尽情的挥洒笔杆，分享文章，技术解析与分享，我都是满目的羡慕，就连心情不好的时候都可以在夜深人静的时候泡上一杯茶，在文字间尽情宣泄心中的情感，很自由；&lt;br&gt;    好了，废话结束，毕竟是开篇嘛，首先介绍一下自己；
+    
+    </summary>
+    
+      <category term="生活" scheme="http://yoursite.com/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+      <category term="随笔" scheme="http://yoursite.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+</feed>
